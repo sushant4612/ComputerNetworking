@@ -119,3 +119,7 @@ Example: In data communication over long-distance networks, such as fiber-optic 
 These phenomena often occur simultaneously during signal transmission. For instance, as a signal travels over a long distance, it might suffer attenuation, leading to a weakened signal. Simultaneously, environmental interference or other factors could introduce noise, and the cumulative effect might cause distortion in the received signal, making the transmitted information less accurate or reliable.
 
 In telecommunications and signal processing, mitigating these issues is crucial. Engineers use various techniques such as error correction codes, modulation schemes, shielding, signal amplification, and equalization to minimize noise, distortion, and attenuation, ensuring that the transmitted data is received as accurately as possible despite these challenges.
+
+## Internet Vs Web
+The internet is the vast global network of interconnected computers, enabling communication and data exchange. The web, short for World Wide Web, is a collection of interconnected documents and resources accessible via the internet through web browsers. In essence, the internet is the infrastructure, while the web is a service that operates on that infrastructure, allowing access to information and resources.
+
