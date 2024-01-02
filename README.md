@@ -122,7 +122,3 @@ In telecommunications and signal processing, mitigating these issues is crucial.
 
 ## Internet Vs Web
 The internet is the vast global network of interconnected computers, enabling communication and data exchange. The web, short for World Wide Web, is a collection of interconnected documents and resources accessible via the internet through web browsers. In essence, the internet is the infrastructure, while the web is a service that operates on that infrastructure, allowing access to information and resources.
-
-
-
-
